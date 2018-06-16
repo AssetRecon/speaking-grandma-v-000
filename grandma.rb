@@ -9,7 +9,7 @@ elsif phrase.downcase == phrase
   return "HUH?! SPEAK UP, SOONY!"
 
   elsif phrase == phrase.upcase
-  return "NO, NOT SINCE 1983!"
+  return "NO, NOT SINCE 1938!"
 end
 end
 
