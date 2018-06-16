@@ -8,7 +8,7 @@ if "I LOVE YOU GRANDMA!" == phrase
   elsif phrase == phrase.upcase
   return "NO, NOT SINCE 1938!"
 else
-  return "HUH?! SPEAK UP, SOONY!"
+  return "HUH?! SPEAK UP, SONY!"
 end
 end
 
